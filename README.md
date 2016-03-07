@@ -1,0 +1,2 @@
+# HyperLinkFinder
+Implemented an application that will recursively compute the number of links starting at a URL and navigate to each one of them and recursively compute the links from there.  The application is implemented in Scala using different use cases like: 1) using sequential solution, only one thread. 2) using synchronization (threads and locks). 3) using Software Transaction Management.(STM) 4) using actors.
